@@ -81,15 +81,6 @@ Indexes: 0   1   2   3
 
  ```
 
-
-#### Code Implementation Links
-
-- [C++]
-- [Python]
-- [C-Sharp]
-- [C]
-
-
 #### Video Explanation
 
 [A video explaining the Bubble Sort Algorithm](https://www.youtube.com/watch?v=Jdtq5uKz-w4)
