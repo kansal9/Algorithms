@@ -38,13 +38,6 @@ target = 9
 Binary Search should return -1 as 9 is not present in the array 
  ```
 
-#### Code Implementation Links
-
-- [C++]
-- [Python]
-- [C-Sharp]
-- [C]
-
 #### Video Explanation
 
 [A CS50 video explaining the Binary Search Algorithm](https://www.youtube.com/watch?v=5xlIPT1FRcA)
