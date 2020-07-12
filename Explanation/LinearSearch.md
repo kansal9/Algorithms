@@ -33,11 +33,6 @@ target = 6
 Linear Search should return -1 as 6 is not present in the array 
  ```
 
-#### Code Implementation Links
-
-- [C++]
-- [Python]
-
 #### Video Explanation
 
 [A CS50 video explaining the Linear Search Algorithm](https://www.youtube.com/watch?v=CX2CYIJLwfg)
