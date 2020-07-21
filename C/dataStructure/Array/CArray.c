@@ -1,12 +1,5 @@
 /*
  * CArray.c
- *
- * Author: Leonardo Vencovsky
- * Created on 19/03/2018
- *
- * Modified by: Leonardo Vencovsky
- * Last modified: 19/03/2018
- *
  * Array Implementations in C
  *
  * Compiled in Visual Studio 2017

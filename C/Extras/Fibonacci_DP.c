@@ -1,9 +1,5 @@
 //Fibonacci Series using Dynamic Programming 
 
-/* Author: Moinak Banerjee(moinak878)
-   Date : 1 October ,2019
-*/
-
 #include<stdio.h> 
 #include<stdlib.h>
   

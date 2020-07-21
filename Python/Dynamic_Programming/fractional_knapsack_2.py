@@ -1,6 +1,5 @@
 # https://en.wikipedia.org/wiki/Continuous_knapsack_problem
 # https://www.guru99.com/fractional-knapsack-problem-greedy.html
-# https://medium.com/walkinthecode/greedy-algorithm-fractional-knapsack-problem-9aba1daecc93
 
 from typing import List, Tuple
 

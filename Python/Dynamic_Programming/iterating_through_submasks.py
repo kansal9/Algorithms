@@ -1,6 +1,4 @@
 """
-Author : Syed Faizan (3rd Year Student IIIT Pune) 
-github : faizan2700
 You are given a bitmask m and you want to efficiently iterate through all of
 its submasks. The mask s is submask of m if only bits that were included in
 bitmask are set

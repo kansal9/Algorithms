@@ -1,6 +1,4 @@
 /*
-    AUTHOR: Christian Bender
-    DATE: 12.02.2019
     DESCRIPTION: This program calculates the prime factoriziation of a positive integer > 1
 */
 

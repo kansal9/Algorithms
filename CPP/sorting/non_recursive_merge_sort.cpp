@@ -1,7 +1,4 @@
 /**
- * Copyright 2020 @author Albirair
- * @file
- *
  * A generic implementation of non-recursive merge sort.
  */
 #include <cstddef>  // for size_t
@@ -87,12 +84,7 @@ template<class Iterator>
 void non_recursive_merge_sort(const Iterator first, const Iterator last) {
     non_recursive_merge_sort(first, last, last - first);
 }
-/**
- * @mainpage A demonstration of auto-generated documentation using Doxygen.
- * Currently, it only creates output for non_recursive_merge_sort.cpp, but if
- * it has proven its efficacy it can be expanded to other files.
- * The configuration file is named doxy.txt and has been auto-generated too.
-*/
+
 // the remaining of this file is only for testing. It can erased to to convert
 // it into a header file for later re-use.
 #include <iostream>

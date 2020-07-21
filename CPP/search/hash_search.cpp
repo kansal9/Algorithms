@@ -1,4 +1,3 @@
-// Copyright 2020 Arctic2333
 #include <stdlib.h>
 #include<stdio.h>
 #define MAX 6  // Determines how much data

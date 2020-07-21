@@ -5,11 +5,7 @@ Bogosort generates random permutations until it guesses the correct one.
 
 More info on: https://en.wikipedia.org/wiki/Bogosort
 
-For doctests run following command:
-python -m doctest -v bogo_sort.py
-or
-python3 -m doctest -v bogo_sort.py
-For manual testing run:
+run:
 python bogo_sort.py
 """
 

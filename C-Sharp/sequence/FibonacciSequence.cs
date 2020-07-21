@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Numerics;
 
 namespace Algorithms.Sequences
@@ -9,9 +9,6 @@ namespace Algorithms.Sequences
     /// </para>
     /// <para>
     ///     Wikipedia: https://wikipedia.org/wiki/Fibonacci_number.
-    /// </para>
-    /// <para>
-    ///     OEIS: https://oeis.org/A000045.
     /// </para>
     /// </summary>
     public class FibonacciSequence : ISequence

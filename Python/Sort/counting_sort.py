@@ -1,10 +1,6 @@
 """
 This is pure Python implementation of counting sort algorithm
-For doctests run following command:
-python -m doctest -v counting_sort.py
-or
-python3 -m doctest -v counting_sort.py
-For manual testing run:
+run:
 python counting_sort.py
 """
 

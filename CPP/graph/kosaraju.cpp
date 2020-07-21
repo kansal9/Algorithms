@@ -1,7 +1,4 @@
-/* Implementation of Kosaraju's Algorithm to find out the strongly connected components (SCCs) in a graph. 
-   Author:Anirban166
-*/   
-
+ 
 #include<iostream>
 #include<vector>
 

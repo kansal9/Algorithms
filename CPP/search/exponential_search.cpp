@@ -1,4 +1,3 @@
-// Copyright 2020 Divide-et-impera-11
 #include <assert.h>
 #include <iostream>
 #include <string>

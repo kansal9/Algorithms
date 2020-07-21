@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Linq;
 using System.Numerics;
 
@@ -10,9 +10,6 @@ namespace Algorithms.Sequences
     /// </para>
     /// <para>
     ///     Wikipedia: https://wikipedia.org/wiki/Prime_number.
-    /// </para>
-    /// <para>
-    ///     OEIS: https://oeis.org/A000040.
     /// </para>
     /// </summary>
     public class PrimesSequence : ISequence

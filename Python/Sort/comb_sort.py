@@ -7,13 +7,7 @@ Comb sort improvement is that gap can be much more than 1, in order to prevent s
 at the end of a list.
 
 More info on: https://en.wikipedia.org/wiki/Comb_sort
-
-For doctests run following command:
-python -m doctest -v comb_sort.py
-or
-python3 -m doctest -v comb_sort.py
-
-For manual testing run:
+run:
 python comb_sort.py
 """
 
